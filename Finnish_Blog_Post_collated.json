@@ -1,5 +1,5 @@
 {
-    "count": 6,
+    "count": 9,
     "next": null,
     "previous": null,
     "results": [
@@ -30,6 +30,27 @@
             "type": "Blog_Post",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/Finnish/148642a3-f858-41a0-adde-5e5e721927ad_fi_Male.mp4"
+        },
+        {
+            "id": "e5703315-9b33-4025-b744-bc37f88dc41e",
+            "collectionId": "Finnish",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/Finnish/e5703315-9b33-4025-b744-bc37f88dc41e_fi_Male.mp4"
+        },
+        {
+            "id": "b8e613f1-5cc0-432f-8520-a301528a05d6",
+            "collectionId": "Finnish",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/Finnish/b8e613f1-5cc0-432f-8520-a301528a05d6_fi_Female.mp4"
+        },
+        {
+            "id": "4255ce36-9434-4783-81df-2efe2363f19c",
+            "collectionId": "Finnish",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/Finnish/4255ce36-9434-4783-81df-2efe2363f19c_fi_Male.mp4"
         },
         {
             "id": "738bf58b-d1ef-46c1-93bc-c959ce78acb6",
